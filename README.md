@@ -13,4 +13,4 @@
 ```11000000.10101000.00001010.00000001```
 
 ## Решение:
-![image][https://github.com/Barbaric448/lab2/blob/main/image.png]
+![image](https://github.com/Barbaric448/lab2/blob/main/image.png)
